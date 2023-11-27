@@ -1,0 +1,2 @@
+main-class: main.java.ru.vsouth.Main
+class-path: out/production/game_of_life
