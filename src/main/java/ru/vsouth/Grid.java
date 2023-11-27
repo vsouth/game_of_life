@@ -1,5 +1,4 @@
 package main.java.ru.vsouth;
-import java.awt.Point;
 import java.util.LinkedList;
 import java.util.List;
 
